@@ -1,3 +1,3 @@
 a = 5
-b = 5
-print(a+b)
+d = 1000
+print(a+d)
