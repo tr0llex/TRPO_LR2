@@ -1,0 +1,1 @@
+print("BMSTU - best!")
