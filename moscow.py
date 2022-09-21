@@ -1,0 +1,1 @@
+print("Moscow - best city!")
