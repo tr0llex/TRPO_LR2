@@ -1,0 +1,7 @@
+print("abc")
+print("BMSTU")
+print()
+print()
+print()
+print()
+print()
